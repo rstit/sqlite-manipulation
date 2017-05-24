@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SqliteManipulation</string>
+
+    <string name="sample_content">Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit. Nulla auctor, lectus sed finibus dignissim,
+        ipsum odio volutpat nisi, eget mollis justo diam eu justo.
+        Cras tempor purus ac erat convallis venenatis. Nulla facilisi. Vivamus vitae aliquet nunc.
+        Nulla tincidunt facilisis nisl. Nulla velit dolor, euismod ac luctus nec, dapibus ac ante.
+        Ut ligula ante, mollis a turpis eget, varius porttitor metus. Duis venenatis gravida erat,
+        eu vulputate magna vehicula eget</string>
+
+    <string name="error_fetching_news">"Cannot fetch news"</string>
+</resources>
